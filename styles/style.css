@@ -71,14 +71,8 @@
     line-height: 96px;
     margin-left: 60px;
 }
-  
+
   /* свойства заголовка всей страницы */
-/*.header__title_main-item {
-    width:730px;
-    font-size: 102px;
-    line-height: 96px;
-    margin-left: 60px;
-}*/
 
 .header__subtitle{
     position: absolute;
@@ -363,7 +357,7 @@
     list-style-type: none;
     margin-left: 0; /* Отступ слева в браузере IE и Opera */
     padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
-    line-height: 30px; 
+    line-height: 30px;
     font-size: 18px;
     font-weight: normal;
 }
